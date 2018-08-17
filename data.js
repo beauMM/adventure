@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-adventure_scene-360",
-      "name": "adventure_scene 360",
+      "id": "0-adventure_360",
+      "name": "adventure_360",
       "levels": [
         {
           "tileSize": 256,
